@@ -139,3 +139,26 @@ Sistemas de IA capazes de tomar decisões em múltiplos passos.
 
 - RAG → responde melhor
 - Agent → resolve problemas
+
+## 📖 Glossário
+
+- **RAG**: Busca + geração
+- **Agentic AI**: IA com autonomia
+- **Embedding**: Representação vetorial
+- **Vector DB**: Banco de embeddings
+- **Tool Calling**: IA usando APIs externas
+
+## ⚡ Prompts Reutilizáveis
+
+🔹 "Explique RAG com pipeline completo"
+🔹 "Explique Agentic AI com exemplos reais"
+🔹 "Compare RAG vs Fine-tuning vs Agents"
+🔹 "Crie arquitetura de sistema RAG"
+🔹 "Quais erros evitar ao implementar RAG?"
+
+## 🧠 Insights
+
+- RAG resolve precisão
+- Agents resolvem complexidade
+- O futuro da IA é híbrido (RAG + Agents)
+- Saber perguntar é uma habilidade crítica
