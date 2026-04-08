@@ -31,6 +31,7 @@ Este projeto utiliza o NotebookLM como ferramenta de aprendizagem ativa para com
 
 3. https://docs.langchain.com/oss/javascript/langchain/rag  
    📌 Implementação com múltiplos providers (JS)
+   
    ▶️: https://www.youtube.com/watch?v=cCydEfKRQMU
 
 4. https://langchain-tutorials.github.io/langchain-rag-tutorial-2026/  
