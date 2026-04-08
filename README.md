@@ -162,3 +162,5 @@ Sistemas de IA capazes de tomar decisões em múltiplos passos.
 - Agents resolvem complexidade
 - O futuro da IA é híbrido (RAG + Agents)
 - Saber perguntar é uma habilidade crítica
+
+https://github.com/donjuan029/ai-rag-agentic-systems-guide
