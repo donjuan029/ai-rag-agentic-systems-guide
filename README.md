@@ -107,3 +107,35 @@ Visão estratégica e arquitetural.
 - Estrutura > pergunta solta
 - Contexto técnico = profundidade
 - Pedir comparação gera entendimento real
+
+## 📌 RAG (Retrieval-Augmented Generation)
+
+### 🔹 O que é?
+Integra busca de informação com geração de IA.
+
+### 🔹 Pipeline
+
+1. Input do usuário
+2. Busca em base externa
+3. Recuperação de dados relevantes
+4. Geração com LLM
+
+---
+
+## 📌 Agentic Systems
+
+### 🔹 O que é?
+Sistemas de IA capazes de tomar decisões em múltiplos passos.
+
+### 🔹 Características
+
+- Planejamento
+- Uso de ferramentas
+- Execução iterativa
+
+---
+
+## 🔥 Diferença chave
+
+- RAG → responde melhor
+- Agent → resolve problemas
