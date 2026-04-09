@@ -99,6 +99,8 @@ Resposta aplicável.
 📌 Resultado:
 Visão estratégica e arquitetural.
 
+Vídeo no Youtube: https://www.youtube.com/watch?v=NtqVp9iKhQU
+
 ---
 
 ### 🧠 Cicatrizes
@@ -162,6 +164,7 @@ Sistemas de IA capazes de tomar decisões em múltiplos passos.
 - Agents resolvem complexidade
 - O futuro da IA é híbrido (RAG + Agents)
 - Saber perguntar é uma habilidade crítica
+
 
 ## 🔗 Link do Projeto
 
