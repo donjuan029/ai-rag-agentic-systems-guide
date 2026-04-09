@@ -58,50 +58,6 @@ Este projeto utiliza o NotebookLM como ferramenta de aprendizagem ativa para com
    
    ▶️: https://www.youtube.com/watch?v=RWq42soYrH8
 
-## 🤖 Engenharia de Prompts e Aprendizados
-
-### 🧪 Prompt 1 — Superficial
-"O que é RAG?"
-
-📌 Resultado:
-Resposta básica e pouco útil.
-
----
-
-### 🧪 Prompt 2 — Estruturado
-"Explique RAG incluindo arquitetura, fluxo e exemplos"
-
-📌 Resultado:
-Boa base técnica.
-
----
-
-### 🧪 Prompt 3 — Nível Engenheiro
-"Explique RAG incluindo:
-- Pipeline completo
-- Embeddings
-- Banco vetorial
-- Casos reais
-- Trade-offs"
-
-📌 Resultado:
-Resposta aplicável.
-
----
-
-### 🧪 Prompt 4 — Nível Big Tech
-"Compare RAG vs Agentic Systems incluindo:
-- Arquitetura
-- Quando usar cada um
-- Limitações
-- Casos reais em produção"
-
-📌 Resultado:
-Visão estratégica e arquitetural.
-
-Vídeo no Youtube: https://www.youtube.com/watch?v=NtqVp9iKhQU
-
----
 
 ### 🧠 Cicatrizes
 
@@ -165,6 +121,10 @@ Sistemas de IA capazes de tomar decisões em múltiplos passos.
 - O futuro da IA é híbrido (RAG + Agents)
 - Saber perguntar é uma habilidade crítica
 
+📌 Resultado:
+O Fim das Alucinações? Conheça a IA que Pensa antes de Responder
+
+Vídeo no Youtube: https://www.youtube.com/watch?v=NtqVp9iKhQU
 
 ## 🔗 Link do Projeto
 
